@@ -1,0 +1,10 @@
+CrackManager-Client/Assets/OpenCVForUnity/
+CrackManager-Client/Assets/Plugins/AutoSaver/
+CrackManager-Client/Assets/Plugins/HierarchyIcon/
+CrackManager-Client/Assets/Plugins/NGTools/
+CrackManager-Client/
+CrackManager-Server/
+Archives/**/*.mp4
+Archives/**/*.mts
+Archives/**/*.hdf5
+References/
